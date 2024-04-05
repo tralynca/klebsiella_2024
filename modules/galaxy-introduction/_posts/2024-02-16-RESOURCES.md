@@ -10,7 +10,7 @@ title: ADDITIONAL RESOURCES
 
 [Youtube channel](https://www.youtube.com/channel/UCwoMMZPbz1L9AZzvIvrvqYA)
 
-[Find a learning path](https://training.galaxyproject.org/training-material/news/2024/03/04/gtn-learning-path-highlights.html) This is still new, so there are currently only three learning paths to choose from.
+[Find a learning path](https://training.galaxyproject.org/training-material/learning-pathways/)
 
 [Galaxy servers, clouds and deployable resources](https://galaxyproject.org/use)
 
