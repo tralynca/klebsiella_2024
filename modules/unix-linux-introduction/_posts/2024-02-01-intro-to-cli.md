@@ -12,7 +12,20 @@ Before we start - go to [Mentimeter](https://www.menti.com/al6zy2jhnid6) to join
 
 ### Tasks
 
-We will be focusing on tasks using the resources listed in the _Resources_ section.
+We will be focusing on tasks using the resources listed in the _Resources_ section. To get started open the Terminal application so that you can be in a `bash` shell environment.
+
+<details markdown="1">
+<summary>How to set up your environment if you are not part of the course at SANBI</summary>
+This lesson was written for an in-person course at [SANBI](https://www.sanbi.ac.za) but, except for the "Working with Remote Computers" part of the lesson, the practicals can be conducted on any computer with a typical Linux or MacOS X environment. The practicals assume that you have a folder called `data` in your home directory with a few small files in it. To create this folder with the files, run this command:
+
+```bash
+curl https://pathogen-genomics-march-2024.sanbi.ac.za/data/shell/make_lesson_data.sh |bash
+```
+
+This command uses `curl` to download a script and then runs the script using `bash`. In general *be very wary* of instructions that require you to run an unknown script on your computer, but in this case, if you trust the authors of this training material, you can trust this script.
+
+The above command should do a few things and then print `DONE` to the screen. If you have seen that `DONE` you can proceed to Task 1.
+</details>
 
 #### Task 1: Exploring using Linux commands
 
@@ -42,7 +55,7 @@ and for a short listing but with classification indicators use `ls -F`
 </details>
 
 Now that you know that there is a directory called `data/` in your home directory, how
-can you see what is in it it?
+can you see what is in it?
 
 <details markdown="1">
 <summary>Show answer</summary>
