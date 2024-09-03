@@ -1,6 +1,6 @@
----
-Adding pages to the Klebsiella training website
---- 
+
+## Adding pages to the Klebsiella training website
+
 
 1. Add modules/pages to the https://klebsiella2024.sanbi.ac.za/ page.
 2. Fork this Github repository.
