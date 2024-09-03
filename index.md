@@ -38,9 +38,9 @@ The course is a two week (10 days) programme of in-person instruction combining 
     <td>09h00</td>
     <td>Welcome: What do we hope to achieve?, Speed Dating Introductions</td>
     <td>Pathogenwatch wrap-up, Talk - Introduction to data visualisation in Microreact</td>
-    <td>Applications of Pathogen Genomics, Outbreak simulation workshop<td>
-    <td>Policy and datasharing, Possible Talks (1 or 2 invited speakers)<td>
-     <td>Kaptive hands on practical - review and discussion, Klebsiella virulence typing part II</td> 
+    <td>Applications of Pathogen Genomics, Outbreak simulation workshop</td> 
+    <td>Policy and datasharing, Possible Talks (1 or 2 invited speakers)</td> 
+    <td>Kaptive hands on practical - review and discussion, Klebsiella virulence typing part II</td> 
    
     <td>R</td>
   </tr>
