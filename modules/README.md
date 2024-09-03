@@ -8,7 +8,7 @@
    4.2. For example, if your lession is on PathogenWatch on 9 September, then you should name your file:<br>
    **2024-09-09-PATHOGENWATCH.md**
 
-6. Submit a Pull Request (PR) to the main branch, and we will merge it.
+6. Submit a Pull Request (PR) to the main branch, called **gh-pages**, and we will merge it.
 
 7. If you would like to be a member of the team to assist with PRs, then please forward me your Github email.
 
