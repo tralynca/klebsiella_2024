@@ -1,4 +1,4 @@
 
 title: Klebsiella 2024
 description: An introductory course on Klebsiella pneumoniae bioinfomatics
-modules: [pathogenwatch, kleborate]
+modules: [pathogenwatch, kleborate, unix-linux-introduction, package-management-conda, quality-control, mapping, variant-calling, phylogenetics]
