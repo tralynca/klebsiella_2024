@@ -83,11 +83,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>09h00</td>
-    <td>Assisstance with WSL/ Linux, Introduction to CLI (Theory)</td>
-    <td>Galaxy</td>
+    <td>Introduction to CLI: hands-on<br><br>Theory: File formats, long vs short reads, raw reads QC</td>
+    <td>PRACTICAL SESSION: (Trainees to work on projects)</td>
     <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Bioinformatics networking</td>
+    <td>Project presentations</td>
+    <td></td>
   </tr>
   <tr class="break">
     <td>11h00</td>
@@ -95,11 +95,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>11h15</td>
-    <td>R</td>
-    <td>Galaxy</td>
-    <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Bioinformatics networking</td>
+    <td>Theory and Hands on; Conda + tool installation</td>
+    <td>Hands on: phylogenetics</td>
+    <td>PRACTICAL SESSION: (Trainees to work on projects)</td>
+    <td>Project presentations</td>
+    <td></td>
   </tr>
   <tr class="break">
     <td>13h00</td>
@@ -107,11 +107,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>14h00</td>
-    <td>Galaxy</td>
-    <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Bioinformatics networking</td>
+    <td>Theory and Hands on QC & alignment </td>
+    <td>Hands on: phylodynamics</td>
+    <td>PRACTICAL SESSION: (Trainees to work on projects)</td>
+    <td>Project presentations</td>
+    <td></td>
   </tr>
 </table>
 
