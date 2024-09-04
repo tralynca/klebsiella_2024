@@ -127,6 +127,8 @@ This course is being organised by [SANBI](https://www.sanbi.ac.za/) (the South A
   <img src="img/africacdc_logo.svg" width="18%" align="top">
   <img src="img/uwc_logo.svg" width="18%" align="top">
   <img src="img/sanbi_logo.svg" width="20%" align="top">
-<img src="img/asl" width="22%" align="top">
+  <img src="img/aslm_logo.jpg" width="18%" align="top">
+  <img src="img/LSHTMLogo2020.svg" width="18%" align="top">
+  <img src="img/Big_Data_Institute_logo.jpg" width="18%" align="top">
 </p>
 
