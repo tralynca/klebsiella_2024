@@ -2,6 +2,6 @@
 title: Epidemiology
 ---
 
-# What is epidemiology
+# What is epidemiology?
 
 This is my content
