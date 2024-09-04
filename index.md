@@ -36,7 +36,7 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>09h00</td>
-    <td>Welcome: What do we hope to achieve?, Speed Dating Introductions</td>
+    <td>Welcome: What do we hope to achieve? <br> Speed Dating Introductions</td>
     <td>Pathogenwatch wrap-up, Talk - Introduction to data visualisation in Microreact</td>
     <td>Applications of Pathogen Genomics, Outbreak simulation workshop</td> 
     <td>Policy and datasharing, Possible Talks (1 or 2 invited speakers)</td> 
@@ -46,7 +46,7 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr class="break">
     <td>11h00</td>
-    <td colspan="5">Tea Break</td>
+    <td colspan="5">Tea Break (15 min)</td>
   </tr>
   <tr>
     <td>11h15</td>
@@ -94,10 +94,10 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr class="break">
     <td>11h00</td>
-    <td colspan="5">Tea Break</td>
+    <td colspan="5">Tea Break (15 min) </td>
   </tr>
   <tr>
-    <td>11h30</td>
+    <td>11h15</td>
     <td>R</td>
     <td>Galaxy</td>
     <td>Cholera case study</td>
