@@ -4,7 +4,7 @@ published: true
 ---
 ## Programme
 
-The course is a two week (10 days) programme of in-person instruction combining theoretical background with practical instruction and opporunity for hands-on practice of the skills presented.
+The course is a two week programme of in-person instruction combining theoretical background with practical instruction and opportunity for hands-on practice of the skills presented.
 
 <!-- LEAVE THIS TABLE ALONE - the rest of the page continues where it says BELOWTHETABLE -->
 
@@ -62,7 +62,7 @@ The course is a two week (10 days) programme of in-person instruction combining 
     <td>Microreact Practical & wrap-up<br><br>Recorded talk: Title TBC (Natacha Couto)</td>
     <td>Outbreak simulation workshop<br><br>Talk: Genomic surveillance of AMR using amr.watch (Julio Diaz-Caballero)</td>
     <td>Kaptive hands on practical</td>
-    <td>Kleborate hands on practical 
+    <td>Kleborate hands on practical</td> 
 </td>
   </tr>
      </tr>
