@@ -36,9 +36,7 @@ The course is a two week programme of in-person instruction combining theoretica
     <td>Pathogenwatch wrap-up<br><br>Talk: Introduction to data visualisation in Microreact</td>
     <td>Applications of Pathogen Genomics<br><br>Outbreak simulation workshop</td> 
     <td>Policy and datasharing<br><br>Possible Talks (1 or 2 invited speakers)</td> 
-    <td>Kaptive hands on practical: review and discussion<br><br>Klebsiella virulence typing part II</td> 
-   
-  
+    <td>Kaptive hands on practical: review and discussion<br><br>Klebsiella virulence typing part II</td>    
   </tr>
   <tr class="break">
     <td>11h00</td>
@@ -51,7 +49,7 @@ The course is a two week programme of in-person instruction combining theoretica
     <td>-Outbreak simulation workshop</td>
     <td>An introdcution to Klebsiella genomics and strain typing<br><br>Klebsiella virulence typing part I</td>
     <td>Klebsiella AMR & plasmid typing<br><br>Kleborate hands on practical</td>
-      </tr>
+  </tr>
   <tr class="break">
     <td>13h00</td>
     <td colspan="5">Lunch Break</td>
@@ -76,8 +74,7 @@ The course is a two week programme of in-person instruction combining theoretica
     <td>Data sharing workflow mapping</td>
     <td>Data sharing workflow mapping</td>
     <td>Kleborate hands on practical: review & discussion<br><br> Data sharing workflow mapping</td>
- 
-</td>
+
   </tr>
 </table>
 
