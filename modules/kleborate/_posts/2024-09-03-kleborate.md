@@ -3,7 +3,7 @@ title: Introduction to Kleborate
 published: true
 ---
 
-## Introduction
+## Introduction to kleborate
 
 
 Write your course content here.
