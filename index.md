@@ -62,7 +62,6 @@ The course is a two week programme of in-person instruction combining theoretica
     <td>Kaptive hands on practical</td>
     <td>Kleborate hands on practical</td> 
   </tr>
-     </tr>
   <tr class="break">
     <td>15h15</td>
     <td colspan="5">Tea Break (15 min)</td>
