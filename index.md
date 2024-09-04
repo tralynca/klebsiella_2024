@@ -2,10 +2,6 @@
 layout: index
 published: true
 ---
----
-layout: index
-published: true
----
 ## Programme
 
 The course is a two week (10 days) programme of in-person instruction combining theoretical back with practical instruction and opporunity for hands-on practice of the skills presented.
@@ -36,11 +32,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>09h00</td>
-    <td>-Welcome: What do we hope to achieve?<br><br>-Speed Dating Introductions</td>
-    <td>-Pathogenwatch wrap-up<br><br> -Talk: Introduction to data visualisation in Microreact</td>
-    <td>-Applications of Pathogen Genomics<br><br>-Outbreak simulation workshop</td> 
-    <td>-Policy and datasharing<br><br>-Possible Talks (1 or 2 invited speakers)</td> 
-    <td>-Kaptive hands on practical: review and discussion<br><br>-Klebsiella virulence typing part II</td> 
+    <td>Welcome: What do we hope to achieve?<br><br>Speed Dating Introductions</td>
+    <td>Pathogenwatch wrap-up<br><br>Talk: Introduction to data visualisation in Microreact</td>
+    <td>Applications of Pathogen Genomics<br><br>Outbreak simulation workshop</td> 
+    <td>Policy and datasharing<br><br>Possible Talks (1 or 2 invited speakers)</td> 
+    <td>Kaptive hands on practical: review and discussion<br><br>Klebsiella virulence typing part II</td> 
    
   
   </tr>
@@ -50,11 +46,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>11h15</td>
-    <td>-Recorded talk: Practical aspects of Pathogen Genomics<br><br>-Pathogenwatch introduction<br>-Pathogenwatch practical </td>
-    <td>-Microreact practical</td>
+    <td>Recorded talk: Practical aspects of Pathogen Genomics<br><br>Pathogenwatch introduction<br>Pathogenwatch practical </td>
+    <td>Microreact practical</td>
       <td>-Outbreak simulation workshop</td>
-    <td>-An introdcution to Klebsiella genomics and strain typing<br><br>Klebsiella virulence typing part I<br><br>Klebsiella virulence typing part I </td>
-    <td>-Klebsiella AMR & plasmid typing<br><br>-Kleborate hands on practical </td>
+    <td>An introdcution to Klebsiella genomics and strain typing<br><br>Klebsiella virulence typing part I</td>
+    <td>Klebsiella AMR & plasmid typing<br><br>Kleborate hands on practical </td>
       </tr>
   <tr class="break">
     <td>13h00</td>
@@ -62,11 +58,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>14h00</td>
-    <td>-Pathogenwatch practical</td>
-    <td>-Microreact Practical & wrap-up<br><br>-Recorded talk: Title TBC (Natacha Couto)</td>
-    <td>-Outbreak simulation workshop<br><br>-Talk: Genomic surveillance of AMR using amr.watch (Julio Diaz-Caballero)</td>
-    <td>-Kaptive hands on practical</td>
-    <td>-Kleborate hands on practical 
+    <td>Pathogenwatch practical</td>
+    <td>Microreact Practical & wrap-up<br><br>Recorded talk: Title TBC (Natacha Couto)</td>
+    <td>Outbreak simulation workshop<br><br>Talk: Genomic surveillance of AMR using amr.watch (Julio Diaz-Caballero)</td>
+    <td>Kaptive hands on practical</td>
+    <td>Kleborate hands on practical 
 </td>
   </tr>
 </table>
