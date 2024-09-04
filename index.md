@@ -98,7 +98,6 @@ The course is a two week programme of in-person instruction combining theoretica
     <td>PRACTICAL SESSION: (Trainees to work on projects)</td>
     <td>Cholera case study</td>
     <td>Project presentations</td>
-    <td></td>
   </tr>
   <tr class="break">
     <td>11h00</td>
