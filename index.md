@@ -94,7 +94,7 @@ The course is a two week programme of in-person instruction combining theoretica
   <tr>
     <td>09h00</td>
     <td>Introduction to CLI: hands-on<br><br>Theory: File formats, long vs short reads, raw reads QC</td>
-    <td>PRACTICAL SESSION: (Trainees to work on projects)</td>
+    <td>Hands on: variant calling</td>
     <td>Cholera case study</td>
     <td>Project presentations</td>
   </tr>
