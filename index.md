@@ -153,8 +153,8 @@ This course is being organised by [SANBI](https://www.sanbi.ac.za/) (the South A
 <p float="left">
   <img src="img/african_union_logo.svg" width="22%" align="top">
   <img src="img/africacdc_logo.svg" width="22%" align="top">
-  <img src="img/uwc_logo.svg" width="22%" align="top">
-  <img src="img/sanbi_logo.svg" width="22%" align="top">
+  <img src="img/uwc_logo.svg" width="24%" align="top">
+  <img src="img/sanbi_logo.svg" width="24%" align="top">
   <img src="img/aslm_logo.jpg" width="18%" align="top">
   <img src="img/LSHTMLogo2020.svg" width="18%" align="top">
   <img src="img/Big_Data_Institute_logo.jpg" width="18%" align="top">
