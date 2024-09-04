@@ -65,6 +65,21 @@ The course is a two week (10 days) programme of in-person instruction combining 
     <td>Kleborate hands on practical 
 </td>
   </tr>
+     </tr>
+  <tr class="break">
+    <td>15h15</td>
+    <td colspan="5">Tea Break (15 min)</td>
+  </tr>
+  <tr>
+    <td>15h30 - 16:30</td>
+    <td>Talk: Genomic surveillance of K. pneumoniae in Europe</td>
+    <td>Data sharing workflow mapping</td>
+    <td>Data sharing workflow mapping</td>
+    <td>Data sharing workflow mapping</td>
+    <td>Kleborate hands on practical: review & discussion<br><br> Data sharing workflow mapping</td>
+ 
+</td>
+  </tr>
 </table>
 
 <hr>
@@ -115,11 +130,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
    <tr class="break">
     <td>15h15</td>
-    <td colspan="5">Tea Break(15 min)</td>
+    <td colspan="5">Tea Break (15 min)</td>
   </tr>
   <tr>
-    <td>15h30</td>
-    <td>Theory and Hands on QC & alignment </td>
+    <td>15h30 - 16:30</td>
+    <td>Theory and Hands on QC & alignment</td>
     <td>Hands on: phylodynamics</td>
     <td>PRACTICAL SESSION: (Trainees to work on projects)</td>
     <td>Project presentations</td>
