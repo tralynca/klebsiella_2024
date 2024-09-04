@@ -4,7 +4,7 @@ published: true
 ---
 ## Programme
 
-The course is a two week (10 days) programme of in-person instruction combining theoretical back with practical instruction and opporunity for hands-on practice of the skills presented.
+The course is a two week (10 days) programme of in-person instruction combining theoretical background with practical instruction and opporunity for hands-on practice of the skills presented.
 
 <!-- LEAVE THIS TABLE ALONE - the rest of the page continues where it says BELOWTHETABLE -->
 
