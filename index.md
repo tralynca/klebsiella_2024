@@ -113,6 +113,19 @@ The course is a two week (10 days) programme of in-person instruction combining 
     <td>Project presentations</td>
     <td></td>
   </tr>
+   <tr class="break">
+    <td>15h15</td>
+    <td colspan="5">Tea Break(15 min)</td>
+  </tr>
+  <tr>
+    <td>15h30</td>
+    <td>Theory and Hands on QC & alignment </td>
+    <td>Hands on: phylodynamics</td>
+    <td>PRACTICAL SESSION: (Trainees to work on projects)</td>
+    <td>Project presentations</td>
+    <td></td>
+  </tr>
+    
 </table>
 
 <!-- BELOWTHETABLE -->
