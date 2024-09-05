@@ -1,8 +1,8 @@
 ---
-title: Dealing with Recombinanation
+title: Dealing with Recombination
 ---
 
-## Dealing with Recombinanation
+## Dealing with Recombination
 
 
 Write your course content here.
