@@ -5,4 +5,4 @@
 
 ## Pathogenwatch and Microreact
 
-{% pdf "/slides/pathogenwatch_microreact.pdf" height=800px %}
+{% pdf "/slides/pathogenwatch-microreact.pdf" height=900px  width=700 %}
