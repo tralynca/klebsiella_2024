@@ -2,4 +2,4 @@
 title: Introduction to Quality Control (raw reads)
 ---
 
-{% pptx "/Quality-Trimming.pptx" height=600px %}
+{% pptx "/slides/Quality-Trimming.pptx" height=600px %}
