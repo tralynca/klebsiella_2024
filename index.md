@@ -46,7 +46,7 @@ The course is a two week programme of in-person instruction combining theoretica
     <td>11h15</td>
     <td>Recorded talk: Practical aspects of Pathogen Genomics<br><br>Pathogenwatch introduction<br>Pathogenwatch practical </td>
     <td>Microreact practical</td>
-    <td>-Outbreak simulation workshop</td>
+    <td>Outbreak simulation workshop</td>
     <td>An introdcution to Klebsiella genomics and strain typing<br><br>Klebsiella virulence typing part I</td>
     <td>Klebsiella AMR & plasmid typing<br><br>Kleborate hands on practical</td>
   </tr>
