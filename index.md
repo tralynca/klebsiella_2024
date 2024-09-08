@@ -4,7 +4,7 @@ published: true
 ---
 ## Programme
 
-The course is a two week programme of in-person instruction combining theoretical background with practical instruction and an opportunity for hands-on practice of the skills presented.
+The course is a two week programme of in-person instruction combining theoretical and practical instruction with an opportunity for hands-on practice of the skills presented.
 
 <!-- LEAVE THIS TABLE ALONE - the rest of the page continues where it says BELOWTHETABLE -->
 
@@ -142,7 +142,7 @@ The course is a two week programme of in-person instruction combining theoretica
 ## Partners
 
 This course is a joint collaboration between [SANBI](https://www.sanbi.ac.za/) (the South African National Bioinformatics Institute) at the 
-[University of the Western Cape (UWC)](https://www.uwc.ac.za/) in collaboration with [Africa CDC](https://africacdc.org) (the Africa Centres for Disease Control and Prevention), part of the African Union (AU), [African Society for Laboratory Medicine (ASLM)](https://aslm.org/), [London School of Hygiene and Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/) and [Big Data Institute at the University of Oxford](https://www.bdi.ox.ac.uk/)
+[University of the Western Cape (UWC)](https://www.uwc.ac.za/), [Africa CDC](https://africacdc.org) (the Africa Centres for Disease Control and Prevention), part of the African Union (AU), [African Society for Laboratory Medicine (ASLM)](https://aslm.org/), [London School of Hygiene and Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/) and [Big Data Institute at the University of Oxford](https://www.bdi.ox.ac.uk/)
 
 <p float="left">
   <img src="img/african_union_logo.svg" width="22%" align="top">
