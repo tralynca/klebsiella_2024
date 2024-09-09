@@ -2,4 +2,4 @@
 title: Test
 ---
 
-{% pdf "/slides/Klebsiella_amr_typing_lecture_Dyson.pdf" height=600px %}
+{% pdf "/slides/Kaptive_tutorial_Mary.pdf" height=600px %}
