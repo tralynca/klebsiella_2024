@@ -1,9 +1,6 @@
 ---
-title: Introduction to Package Management
+title: Introduction to Conda and Environments
 ---
 
-## Introduction to Package Management (conda)
 
-
-Write your course content here.
-<br> Here are some markdown [examples](https://course-in-a-box.p2pu.org/modules/content/markdown-and-media/)
+{% pdf "/slides/Klebsiella_conda.pdf" height=600px %}
