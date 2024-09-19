@@ -1,9 +1,5 @@
 ---
-title: Introduction to Phylogenetics
+title: Introduction to Phylogenomics
 ---
 
-## Introduction to Phylogenetics
-
-
-Write your course content here.
-<br> Here are some markdown [examples](https://course-in-a-box.p2pu.org/modules/content/markdown-and-media/)
+{% pdf "/slides/Phylogenomics_Dyson_2024.pdf" height=600px %}
