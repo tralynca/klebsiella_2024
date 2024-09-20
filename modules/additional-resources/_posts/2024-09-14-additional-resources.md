@@ -1,5 +1,5 @@
 ---
-Title: Additional resources
+title: Additional resources
 ---
 <br>
 
