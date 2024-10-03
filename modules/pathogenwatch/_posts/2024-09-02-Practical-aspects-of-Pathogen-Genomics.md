@@ -1,1 +1,1 @@
-[![Practical aspects of Pathogen Genomics](https://www.youtube.com/watch?v=4gVWcdsBqto)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4gVWcdsBqto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
